@@ -1,2 +1,2 @@
-# dataset-comparison
+# OCR-dataset-comparison
 The purpose of this Python program is to take a dataset (CSV format) of OCR field data extracted from a set of documents and compare each data entry field by field for matches with another truth dataset containing the correct values. The program reads each dataframe from the CSV files, compares the data for matches, and outputs a dataset of all the nonmatching data as well as the percentage of accuracy (matches) for each field to Excel.
